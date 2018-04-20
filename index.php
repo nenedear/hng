@@ -25,7 +25,7 @@ date_default_timezone_set('Africa/Lagos');
     }
 </style>
 <body>
-    <section  class="task" style ="background-image:url(Chrysanthemum.jpg); height:600px">
+    <section  class="task" style ="background-image:url(Chrysanthemum.jpg); height:600px" id="section">
     <!-- <img src="Chrysanthemum.jpg"> -->
     <div class= "time">
     <h1><?php echo date("h:i:sa")?>THURSDAY<br><br>APRIL 19<br><br>HNG INTERNSHIP</h1>
